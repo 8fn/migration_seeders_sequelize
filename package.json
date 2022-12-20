@@ -1,0 +1,26 @@
+{
+  "name": "migration_seeders_sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8fn/migration_seeders_sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8fn/migration_seeders_sequelize/issues"
+  },
+  "homepage": "https://github.com/8fn/migration_seeders_sequelize#readme",
+  "devDependencies": {
+    "sequelize-cli": "^6.5.2"
+  },
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.27.0"
+  }
+}
